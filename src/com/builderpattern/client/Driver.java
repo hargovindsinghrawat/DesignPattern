@@ -1,5 +1,7 @@
 package com.builderpattern.client;
 
+import com.builderpattern.entities.Dog;
+
 public class Driver {
 	
 	public static void main(String[] args) {

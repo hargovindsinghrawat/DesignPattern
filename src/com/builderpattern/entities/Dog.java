@@ -54,7 +54,7 @@ public class Dog {
 		return s;
 	}
 	
-	public static class DogBuilder() {
+	public static class DogBuilder {
 		private String name; // optional
 		private String gender; // cannot change
 		private String breed; // cannot change
