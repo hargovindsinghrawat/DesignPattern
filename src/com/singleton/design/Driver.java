@@ -28,6 +28,5 @@ public class Driver {
 		executor.execute(() -> TVSet.getTVSetInstance());
 		executor.execute(() -> TVSet.getTVSetInstance());
 		executor.execute(() -> TVSet.getTVSetInstance());
-		
 	}
 }
